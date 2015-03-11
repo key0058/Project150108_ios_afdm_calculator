@@ -8,7 +8,7 @@ Just iOS app for my dad
 
 # Why create this app?
 * As my dad ask me: if any app only show math problem then he can calculate it, no need limit time or any other.
-* I already found some math's apps, but he do not liked.
+* I try found some math's apps, but he do not liked.
 * So I just to create this sample app which he want any function.
 
 # About app:
