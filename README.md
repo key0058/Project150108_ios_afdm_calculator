@@ -32,5 +32,5 @@ Just iOS app for my dad
 * 单纯使用原生iOS界面和使用objective-c语言生成数学题目
 * 另外也使用了内置sqlite数据库来存储，基本只包含了一些iOS的基础技术。
 
-个人网站: http://key00582.usa.myjhost.net/
+
 
